@@ -11,7 +11,6 @@
     "ssh2-streams": "~0.1.19"
   },
   "devDependencies": {
-    "babel-plugin-transform-export-extensions": "^6.22.0",
     "semver": "^5.1.0"
   },
   "scripts": {
